@@ -26,6 +26,10 @@ while True:
 
     elif "healthy food" in user:
         print("NutriBot: Eat fruits, vegetables, whole grains, and protein-rich foods.")
-
+    
+    elif "fruit" in user:
+    print("NutriBot: Fruits provide vitamins, minerals, and fiber. Try eating apples, bananas, and oranges!")
+    
     else:
         print("NutriBot: Sorry, I don't know that yet. Ask me about protein, vitamins, calories, or water.")
+        
